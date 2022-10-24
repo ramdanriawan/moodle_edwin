@@ -30,6 +30,8 @@ services:
       - './moodledata_data:/bitnami/moodledata'
     depends_on:
       - mariadb
+    links:
+      - mariadb
 volumes:
   mariadb_data:
     driver: local
