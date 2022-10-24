@@ -1,0 +1,9 @@
+Total timeline : 2 Bulan 
+
+Week 1 : setup server dan moodle
+
+Week 2 : setup home page dan theme (sudah bs demo tampilan)
+
+Week 3-4 : Konfigurasi detail2 sudah bisa akses course, buat course, teacher buat tes
+
+Week 5-8 : Feedback dari user

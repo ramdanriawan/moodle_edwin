@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="103.56.148.212" id="b60b55e4-e754-402f-9684-e7e9c04ac3cd" port="22" customName="moodle_edwin" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="moodle_edwin" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="185.211.5.241" id="52f633eb-5d97-4ecd-b468-49b9c53e80ad" port="22" customName="contabo" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="contabo" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
