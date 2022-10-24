@@ -1,0 +1,7 @@
+Online documentation
+
+For Alpha 2.0
+https://rosea.gitbook.io/alpha-moodle-theme/
+
+For Alpha 1.5.10
+https://docs.alpha.rosea.io
